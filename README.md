@@ -8,8 +8,8 @@ CNN models for Quasar morphology classifications
 
 ## Classified Images
 
-### 1) Main Classification 
+### 1) Main Classification Examples
 ![appendixmain1](https://user-images.githubusercontent.com/78647966/134183473-0cac426f-30a8-4559-a3f9-21433088ebea.png)
 
-### 2) Sub-Classification
+### 2) Sub-Classification Examples
 ![appendixsub1](https://user-images.githubusercontent.com/78647966/134183485-e581d657-2fcd-45d7-8197-183c671b52bb.png)
