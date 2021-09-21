@@ -10,7 +10,7 @@ Sources are classified as core, lobe, triple, and jets. Core-type sources are su
 ##### Class and Sub-class Notations:
 core: core-type sources
 lobe: lobe-type sources
-trip: triple-type sources (double lobed)
+trip: triple-type sources (double-lobed)
 jet: jet-type sources
 
 r: resolved core
