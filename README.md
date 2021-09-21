@@ -5,9 +5,9 @@ CNN models for Quasar morphology classifications
 ## Introduction
 CNN models are built for classifying quasar sources with Integrated flux density at 1.4 GHz > 2mJy. Image cutouts (4'x4') are obtained from VLA FIRST image cutout server (https://third.ucllnl.org/cgi-bin/firstcutout), with source SDSS coordinates at the center of the image. 
 
-Sources are classified as core, lobe, triple, and jets. Core-type sources are subclassified into resolved and unresolved core sources.
+Sources are classified as core, lobe, triple, and jets. Core-type sources are subclassified into resolved and unresolved core sources. The models are used to classify radio morphology of 16491 sources.
 
-##### Class and Subclass Notations:
+##### Class and Sub-class Notations:
 core: core-type sources
 lobe: lobe-type sources
 trip: triple-type sources (double lobed)
@@ -30,6 +30,9 @@ CNN model to subclassify Lobe-type sources into core-dominated and lobe-dominate
 ### A3) Triple
 CNN model to subclassify Triple-type sources into core-dominated and lobe-dominated sources.
 
+
+## B) Broad Absorption Line (BAL) Quasars 
+BAL quasars are studied as a function of radio-loudness and core-lobe flux density ratio parameters. These parameters have been compiled for 16491 sources in the "balqso.csv" file.
 
 
 ## Classified Images
