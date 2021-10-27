@@ -41,4 +41,5 @@ BAL quasars are studied as a function of radio-loudness and core-lobe flux densi
 ![main2](https://user-images.githubusercontent.com/78647966/139008403-abd8c16c-3018-49e9-914b-9a90705780a1.jpg)
 
 ### 2) Sub-Classification Examples
-![appendixsub1](https://user-images.githubusercontent.com/78647966/134183485-e581d657-2fcd-45d7-8197-183c671b52bb.png)
+![sub2](https://user-images.githubusercontent.com/78647966/139010395-61977376-973a-41d9-9ee3-21cf1ba126e6.jpg)
+
