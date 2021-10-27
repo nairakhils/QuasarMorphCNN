@@ -25,8 +25,8 @@ c: core-dominated
 
 ### A1) MainClass
 CNN model to classify sources into core, lobe, triple and jets. 
-### A2) Lobe
-CNN model to subclassify Lobe-type sources into core-dominated and lobe-dominated sources.
+### A2) Double
+CNN model to subclassify Double-type sources into core-dominated and lobe-dominated sources.
 ### A3) Triple
 CNN model to subclassify Triple-type sources into core-dominated and lobe-dominated sources.
 
