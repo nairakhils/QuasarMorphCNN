@@ -40,7 +40,7 @@ Flags:<br/>
 
 <b>CLASS</b>: Defines broad classification of radio morphology<br/>
 <b>SUBCLASS</b>: Defines sub-classification of radio morphology<br/>
-<b>logR1</b>: Log(RI) parameter (radio-to-optical ratio)<br/>
+<b>logR1</b>: Log(R<sub>I</sub>) parameter (radio-to-optical ratio)<br/>
 <b>logR_ratio</b>: Log(R) parameter (core-to-lobe flux density ratio)<br/>
 
 
