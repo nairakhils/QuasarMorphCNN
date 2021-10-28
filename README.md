@@ -33,6 +33,11 @@ CNN model to subclassify Triple-type sources into core-dominated and lobe-domina
 
 ## B) Broad Absorption Line (BAL) Quasars 
 BAL quasars are studied as a function of radio-loudness and core-lobe flux density ratio parameters. These parameters have been compiled for 16491 sources in the "balqso.csv" file.
+Flags:
+CLASS: Defines broad classification of radio morphology
+SUBCLASS: Defines sub-classification of radio morphology
+logR1: Log(RI) parameter (radio-to-optical ratio)
+logR_ratio: Log(R) parameter (core-to-lobe flux density ratio)
 
 
 ## Classified Images
