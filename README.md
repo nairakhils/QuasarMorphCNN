@@ -7,37 +7,37 @@ CNN models are built for classifying quasar sources with Integrated flux density
 
 Sources are classified as core, double, triple, and jets. Core-type sources are subclassified into resolved and unresolved core sources. The models are used to classify radio morphology of 16491 sources.
 
-##### Class and Sub-class Notations:
-core: core-type sources
-double: double-type sources
-trip: triple-type sources (double-lobed)
-jet: jet-type sources
+##### Class and Sub-class Notations:<br/>
+core: core-type sources<br/>
+double: double-type sources<br/>
+trip: triple-type sources (double-lobed)<br/>
+jet: jet-type sources<br/>
 
-r: resolved core
-u: unresolved core
-l: lobe-dominated 
-c: core-dominated
+r: resolved core<br/>
+u: unresolved core<br/>
+l: lobe-dominated <br/>
+c: core-dominated<br/>
 
-## A) CNN models
-1. Three CNN model files have been added to the folder named 'CNN'.
-2. You can load the model files using keras and tensorflow packages.
-3. The input file details along with the labels can be found in the .pickle files. Files beginning with 'X' consists of the image information, while the ones with 'y' contain the corresponding morphology label.
+## A) CNN models<br/>
+1. Three CNN model files have been added to the folder named 'CNN'.<br/>
+2. You can load the model files using keras and tensorflow packages.<br/>
+3. The input file details along with the labels can be found in the .pickle files. Files beginning with 'X' consists of the image information, while the ones with 'y' contain the corresponding morphology label.<br/>
 
-### A1) MainClass
-CNN model to classify sources into core, lobe, triple and jets. 
-### A2) Double
-CNN model to subclassify Double-type sources into core-dominated and lobe-dominated sources.
-### A3) Triple
-CNN model to subclassify Triple-type sources into core-dominated and lobe-dominated sources.
+### A1) MainClass<br/>
+CNN model to classify sources into core, lobe, triple and jets. <br/>
+### A2) Double<br/>
+CNN model to subclassify Double-type sources into core-dominated and lobe-dominated sources.<br/>
+### A3) Triple<br/>
+CNN model to subclassify Triple-type sources into core-dominated and lobe-dominated sources.<br/>
 
 
-## B) Broad Absorption Line (BAL) Quasars 
-BAL quasars are studied as a function of radio-loudness and core-lobe flux density ratio parameters. These parameters have been compiled for 16491 sources in the "balqso.csv" file.
-Flags:
-CLASS: Defines broad classification of radio morphology
-SUBCLASS: Defines sub-classification of radio morphology
-logR1: Log(RI) parameter (radio-to-optical ratio)
-logR_ratio: Log(R) parameter (core-to-lobe flux density ratio)
+## B) Broad Absorption Line (BAL) Quasars <br/>
+BAL quasars are studied as a function of radio-loudness and core-lobe flux density ratio parameters. These parameters have been compiled for 16491 sources in the "balqso.csv" file.<br/>
+Flags:<br/>
+CLASS: Defines broad classification of radio morphology<br/>
+SUBCLASS: Defines sub-classification of radio morphology<br/>
+logR1: Log(RI) parameter (radio-to-optical ratio)<br/>
+logR_ratio: Log(R) parameter (core-to-lobe flux density ratio)<br/>
 
 
 ## Classified Images
