@@ -38,10 +38,10 @@ BAL quasars are studied as a function of radio-loudness and core-lobe flux densi
 
 Flags:<br/>
 
-CLASS: Defines broad classification of radio morphology<br/>
-SUBCLASS: Defines sub-classification of radio morphology<br/>
-logR1: Log(RI) parameter (radio-to-optical ratio)<br/>
-logR_ratio: Log(R) parameter (core-to-lobe flux density ratio)<br/>
+<b>CLASS</b>: Defines broad classification of radio morphology<br/>
+<b>SUBCLASS</b>: Defines sub-classification of radio morphology<br/>
+<b>logR1</b>: Log(RI) parameter (radio-to-optical ratio)<br/>
+<b>logR_ratio</b>: Log(R) parameter (core-to-lobe flux density ratio)<br/>
 
 
 ## Classified Images
