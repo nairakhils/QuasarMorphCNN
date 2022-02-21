@@ -1,7 +1,7 @@
 # QuasarMorphCNN
 CNN models for Quasar morphology classifications
 
-Article: https://arxiv.org/abs/2201.09901
+Article, cite: https://arxiv.org/abs/2201.09901
 
 
 ## Introduction
