@@ -1,6 +1,8 @@
 # QuasarMorphCNN
 CNN models for Quasar morphology classifications
 
+Article: https://arxiv.org/abs/2201.09901
+
 
 ## Introduction
 CNN models are built for classifying quasar sources with Integrated flux density at 1.4 GHz > 2mJy. Image cutouts (4'x4') are obtained from VLA FIRST image cutout server (https://third.ucllnl.org/cgi-bin/firstcutout), with source SDSS coordinates at the center of the image. 
